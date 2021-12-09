@@ -1,0 +1,34 @@
+.multi {
+  width: 27rem;
+}
+
+.bg-image1 {
+  background-image: url('imgs/img/Header-llustration-desktop@2x.png');
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+}
+
+.emi {
+  width: 26rem;
+}
+
+.bg-image2 {
+  background-image: url('imgs/illustration2.svg'), url('imgs/illustration.svg');
+  background-position: top right, bottom left;
+  background-repeat: no-repeat, no-repeat;
+}
+
+.bg-image3 {
+  background-image:
+    url('imgs/footing-bg-1-desktop.svg'),
+    url('imgs/footing-bg-2-desktop.svg'),
+    url('imgs/footing-bg-3-desktop.svg');
+  background-position: bottom left, 13rem bottom, bottom right;
+  background-size: 10%;
+  background-repeat: no-repeat;
+}
+
+.scan-overview__progress-bar {
+  width: 100%;
+}
